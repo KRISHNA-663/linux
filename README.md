@@ -1,2 +1,2 @@
-# oss_labo
+# Linux
 LAB
